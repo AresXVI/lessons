@@ -1,0 +1,17 @@
+.button {
+    padding: 5px;
+    border: 1px blue solid;
+    border-radius: 30%;
+}
+
+.default {
+    background: grey;
+}
+
+.error {
+    background: red;
+}
+
+.confirm {
+    background: green;
+}
